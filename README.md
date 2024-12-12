@@ -1,1 +1,1 @@
-# weatherCheck
+# weather-api
